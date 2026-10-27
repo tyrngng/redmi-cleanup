@@ -1,0 +1,9 @@
+# ADB, скачанный программой
+platform-tools/
+platform-tools.zip
+
+# Журнал удалённых приложений (у каждого свой)
+removed_packages.txt
+
+__pycache__/
+*.py[cod]
